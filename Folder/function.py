@@ -22,4 +22,3 @@ def money_balance(user):
 
 
 money_balance("Rita Ghilardi")
-print("Ciao")
