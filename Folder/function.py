@@ -6,7 +6,7 @@ users = {
     "Pietro Belligoli" : "12",
     "Marco Visentin" : "5",
     "Francesca Signorello" : "11",
-    "Alessandro Bonettoo" : "-10"}
+    "Alessandro Bonettooo" : "-10"}
     
 def print_users():
     print("These are the users:")
