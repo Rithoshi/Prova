@@ -11,7 +11,7 @@ users = {
 def print_users():
     print("These are the users:")
     for user in users:
-    print(user)
+    	print(user)
     
     
 def money_balance(user):
@@ -19,3 +19,6 @@ def money_balance(user):
         print('{}\'s money balance is {}'.format(user, users[user]))
     else:
         print('We don\'t have {}\'s money balance'.format(user))
+
+
+money_balance("Rita Ghilardi")
