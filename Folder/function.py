@@ -22,3 +22,4 @@ def money_balance(user):
 
 
 money_balance("Rita Ghilardi")
+money_balance("Prof")
